@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+	  content="width=device-width, initial-scale=1.
+	  0">
+	  <title>SYSPREV</title>
+	  <style>
+	  
+*{
+margin: 0;
+padding: 0;
+}
+			
+			body {
+				background-color: darkgrey;
+			}
+			 
+			header {
+				padding-top: 10px;
+				color: black;
+					
+			}
+
+			header > h1 {
+				font-size: 1.3em;
+				text-shadow: 1px 3px 5px #0000005e;
+				background-image: linear-gradient(to right,#00ffff, transparent);
+			}
+			
+			#customers {
+				text-align: left;
+				background-color: lightgrey;
+			}
+
+			aside  {
+				
+				text-align: justify;
+				columns: 3;
+			}
+			
+			aside > h3 > p{
+				font-family: Arial, Helvetica, sans-serif;
+				font-size: 0.5;
+				border-collapse: collapse;
+				text-align: left;
+				
+			}
+			
+			#custom {
+				background-image: linear-gradient(to right,#00ffff, transparent);
+			}
+
+
+
+	  </style>
+ </head>
+ <body>
+	<header><h1>PREVIDENCIÁRIO</h1></header>
+	
+	<div class="w3-white w3-padding notranslate w3-padding-16">
+	<table class="ws-table-all" id="customers">
+		<tbody>
+			<tr>
+				<th><div class="th" id="custom">Benefícios<th>	
+			</tr>
+			<tr>	
+			
+				<td><br>Parametrização de cálculos e pagamento de benefícios;
+					Processamento dos cálculos de benefícios na concessão (planos de previdência privada e oficial);
+					Revisão de cálculo de benefícios;
+					Apuração de diferenças de valores de benefícios pagos;
+					Cálculo de folha de pagamento de benefícios (planos de previdência privada e oficial);
+					Tratamento de IR Progressivo e Regressivo;
+					Tratamento de pensão alimentícia;
+					Pensões bipartidas;
+					Movimentação de saldos de benefícios;
+					Integração com sistema contábil e tesouraria;
+					Emissão de contracheques (geração de arquivo ou impressão local);
+					Emissão de relatórios de consistência da folha de pagamento;
+					Emissão de relatórios operacionais.<br></td>
+			
+				</tr>
+				<tr>
+				<th><div class="th" id="custom">Cadastro de Participantes</th>
+				</tr>
+					<td><br>Atualização de dados cadastrais de participantes e dependentes (através de digitação e via arquivo gerado pelo patrocinador);
+					Adesão a planos de Previdência Privada e Oficial;
+					Atualização de situação de participantes nos planos de previdência (desligamento, autopatrocínio, suspensão, BPD, transferência de patrocinadoras);
+					Controle de perfis de investimento;
+					Emissão de extrato de desligamento;
+					Controle de opção de IR Progressivo e Regressivo;
+					Geração de SICAD;
+					Emissão de relatórios operacionais.<br></td>
+				</tr>
+				<tr>
+				<th><div class="td" id="custom">Arrecadação</th>
+				<tr>
+					<td><br>Parametrização de estrutura de armazenamento de contribuições e cálculo de contribuições;
+					Validação das contribuições arrecadadas;
+					Armazenamento de contribuições em contas segmentadas;
+					Geração de extratos de contribuições;
+					Consultas de saldos em contas;
+					Consulta de movimentos de contribuições (ficha financeira);
+					Geração de cobrança de autopatrocinados e outros;
+					Emissão de relatórios operacionais;
+					Portabilidade entre planos de previdência;
+					Resgates de saldos (à vista e parcelado);
+					Integração com sistema contábil e tesouraria.<br></td>
+				</tr>
+			
+</body>
+</html>

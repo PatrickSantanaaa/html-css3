@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+	  content=''width=device-width, initial-scale=1.
+	  0">
+	  <title>COMPLIANCEPREV</title>
+ </head>
+ <body>
+ <style>
+ 			h3 {
+				background-image: linear-gradient(to right,#00ffff, transparent);
+				text-shadow: 1px 3px 5px #0000005e;
+			}
+ </style>
+ 
+		<h3>COMPLIANCE PREV</h3>
+		<p>Sistema de monitoramento de Obrigações e Riscos constituído pelas seguintes funcionalidades:</p>
+			<ul>
+			
+				<li>Registro e manutenção de todas as obrigações legais (externas), organizacionais ou governança (internas) de uma fundação;
+				<li>Gerenciador de documentos de evidências para análise de aprovações;
+				<li>Workflow de notificação de cadastramentos,vencimentos, atrasos e aprovações das obrigações por níveis de responsabilidades;
+				<li>Visualização de calendário mensal e anual de obrigações;</li>
+				<li>Estatísticas das obrigações por períodos de vencimento;</li>
+				<li>E-mails de notificações customizáveis;</li>
+				<li>Programação individualizada de envio de e-mail de notificação;</li>
+				<li>Montagem de Matriz de Riscos e suas ações.</li>
+			
+			</ul>
+	 	
+		 
+</body>
+</html>

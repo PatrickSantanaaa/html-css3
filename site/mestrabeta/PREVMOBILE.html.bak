@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+	  content=''width=device-width, initial-scale=1.
+	  0">
+	  <title>PREVMOBILE</title>
+ </head>
+ <body>
+ <style>
+		h2 {
+		background-image: linear-gradient(to right,#00ffff, transparent);
+		text-shadow: 2px 2px 0px #00000033;
+		}
+		
+ </style>
+		<h2>PREVMOBILE</h2>
+		<p>Extração de dados à partir de comandos e estrutura de armazenamentos informados pelos usuários através de conhecimento da base de dados do SysPrev. Suas principais funcionalidades:
+		</p>
+		<ul>
+			<li>Atualizações cadastrais;</li>
+			<li>Extratos de contribuições;</li>
+			<li>Relatórios contábeis e orçamentários;</li>
+			<li>Simulações de benefícios e resgates;</li>
+			<li>Pagamentos de benefícios;</li>
+			<li>Empréstimos financeiros;</li>
+			<li>Liberação de pagamentos;</li>
+			<li>Investimentos.</li>
+		<ul>
+		 
+</body>
+</html>

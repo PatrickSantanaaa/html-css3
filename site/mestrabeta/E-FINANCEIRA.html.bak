@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+	  content=''width=device-width, initial-scale=1.
+	  0">
+	  <title>E-FINANCEIRA</title>
+ </head>
+ <body>
+<style>
+			h3 {
+				background-image: linear-gradient(to right,#00ffff, transparent);
+				text-shadow: 1px 3px 5px #0000005e;
+			}
+</style>
+	 	<h3>E-FINANCEIRA<h3>
+		<p>Principais funcionalidades:</p>
+			<ul>
+			
+				<li>Preparação de dados;</li>
+				<li>Geração de Relatórios Operacionais;</li>
+				<li>Transmissão para RFB;</li>
+			
+			</ul>
+		
+		 
+</body>
+</html>

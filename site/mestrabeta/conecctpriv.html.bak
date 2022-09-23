@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+	  content=''width=device-width, initial-scale=1.
+	  0">
+	  <title>CONNECTPRIVE</title>
+ </head>
+ <body>
+	<h3>CONNECTPRIVE</h3>
+	<p>Sistema Gerenciador de Envio de Informações conectado aos Módulos do Sysprev Web, constituído das seguintes funcionalidades:</p>
+		<ul>
+			<li>Registro de autorização de e-mail e SMS (carta de autorização);
+			<li>Controle das rotinas associadas ao ConnectPrev;
+			<li>Cadastramento das mensagens para cada rotina (e-mail e SMS);
+			<li>Envio de e-mail e SMS online (informações, documentos anexos);
+			<li>Geração de documento e envio em lote (agendamento).
+					
+		</ul>
+	 	
+		 
+</body>
+</html>

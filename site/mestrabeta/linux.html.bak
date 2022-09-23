@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+	  content="width=device-width, initial-scale=1.
+	  0">
+	  <title>Mestra Informática</title>
+	  <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+	  <link rel="stylesheet" href="estilos/style.css">
+ </head>
+ <body>
+ 
+ <style>
+ 
+ </style>
+ 
+		<header>
+			<h1>Mestra Informática</h1>
+			<p>Tudo aquilo que você sempre quis em um único lugar.</p>
+		</header>
+		<nav>
+			<a href="linux.html" target="external">Home</a>
+			<a href="http://www.mestrainfo.com.br/site/category/noticias/" target="_blank">Notícias</a>
+			<a href="#">Curiosidades</a>
+			<a href="http://www.mestrainfo.com.br/site/contato/" target="_blank">Fale Conosco</a>
+		</nav>
+		<main>
+			<article>
+				<h1>História da Mestra</h1>
+
+			<p>Desde 1995, nossa empresa é mestra em construir relacionamentos duradouros com grandes clientes. Durante esse tempo, temos nos destacado no desenvolvimento e gerenciamento de sistemas previdenciários, assistenciais e comerciais.
+			Mais do que fornecedores, somos parceiros. E é através dessa relação e do nosso envolvimento com as necessidades dos clientes é que desenvolvemos as soluções inovadoras e personalizadas que só a Mestra pode oferecer.</p>
+
+			<h2>Diferenciais</h2>
+			<br>
+			<h3>CAPACITAÇÃO E EVOLUÇÃO TECNOLÓGICA</h3>
+			<p>Quando contratar um produto Mestra, pode ter certeza: está contratando o melhor da tecnologia disponível no mercado. Aqui, os investimentos na atualização profissional e de sistemas são premissas básicas, constantes. Tudo para assegurar o melhor retorno para o seu investimento.</p>
+			<h3>CONHECIMENTO NOS SEGMENTOS DE ATUAÇÃO</h3>
+			<p>Nossos profissionais participam frenquentemente de programas de reciclagens. Isso inclui: MBAs, congressos, eventos sobre Instruções Normativas entre outros cursos de aperfeiçoamento. Todo aprendizado é compartilhado internamente e também com nossos parceiros, com o objetivo de disseminar conhecimento e agregar valor aos </p>
+			<h3>FILOSOFIA DE ATUAÇÃO NOS PROJETOS</h3>
+			<p>Na Mestra, cada cliente possui um gerente de projeto e equipe dedicada ao seu atendimento. Um modelo de atuação que gera um alto padrão de envolvimento e entrega. Tudo é personalizado: atendimento e sistema. Na Mestra, demandas diferentes recebem soluções especiais.	</p>
+			
+			<picture>
+				<source media="(max-width: 300px)" srcset="imagens/androidspq.png">
+				<center><img src="imagens/fundo.png" alt="aperto de mao"></center>
+			</picture>
+
+			<h3>Missão</h3>
+			Prover os seus clientes com sistemas de informações integrados, implementados em tecnologia de ponta e totalmente aderentes as necessidades funcionais de cada empresa, prestando serviços de suporte e manutenção de alto nível profissional, através de uma equipe de colaboradores que é constantemente motivada por valorização ao tempo efetivo na empresa, conhecimento de negócio e tecnológico, criatividade e dedicação.</p>
+			<h3>Visão</h3>
+			<p>A Mestra deve estar constantemente capacitada nas tecnologias de ponta e no conhecimento dos negócios de seus clientes. O sucesso dos projetos é alcançado quando é agregado valor aos negócios do cliente.</p>
+			<h3>PRINCÍPIOS E VALORES</h3>
+			<p>Não são medidos esforços para o atendimento aos clientes, suas requisição são oportunidades de conquista de confiança e manutenção do relacionamento de parceria.</p>
+
+			<div class="video">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/1yMbg1C2rlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+			 
+			<aside>
+				<h3>Quais nossos produtos?</h3>
+
+				<p>Nossos produtos foram desenvolvidos em parceria com empresas atuantes no segmento de negócios.
+				Os sistemas, por sua vez, representam o que há de melhor no mundo tecnológico atual.</p>
+			
+	<ul>
+			<li> - <a title="SYSPREV" href="sysprev.html" target="frame" >SYSPREV</a></li>
+			<li> - <a title="PREVMOBILE" href="PREVMOBILE.html" target="frame">PREVMOBILE</a></li>
+			<li> - <a title="REPORT MANAGER" href="reportmanager.html" target="frame">REPORT MANAGER</a></li>
+			<li> - <a title="SYSCALL" href="syscall.html" target="frame">SYSCALL</a></li>
+	</ul>
+	<ul>
+			<li> - <a title="MEDMESTRA" href="medmestra.html" target="frame">MEDMESTRA</a></li>
+			<li> - <a title="COMPLIANCEPREV" href="complianceprev.html" target="frame">COMPLIANCEPREV</a></li>
+			<li> - <a title="CONNECTPREV" href="connectprev.html" target="frame">CONNECTPREV</a></li>
+			<li> - <a title="E-FINANCEIRO" href="e-financeira.html" target="frame">E-FINANCEIRO</a></li>
+			
+			<br>
+	</ul>
+	<iframe id="tela" name="frame" src"> </iframe>
+
+			</aside>
+			</article>
+		</main>
+		<footer>
+			<p>Site criado por <a href=https://www.instagram.com/pksantanaa/" target="_blank">Patrick Santana</a>
+		</footer>
+</body>
+</html>

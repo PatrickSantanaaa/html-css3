@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+	  content=''width=device-width, initial-scale=1.
+	  0">
+	  <title>REPORT MANAGER</title>
+	  <style>
+			h3 {
+				background-image: linear-gradient(to right,#00ffff, transparent)
+			}
+	  </style>
+ </head>
+ <body>
+		<h3>REPORT MANAGER</h3>
+		<p>Extração de dados à partir de comandos e estrutura de armazenamentos informados pelos usuários através de conhecimento da base de dados do SysPrev.
+		Suas principais funcionalidades:</p>
+			<ul>
+				<li>Comandos de recuperação de dados;</li>
+				<li> Formatação de cabeçalho e rodapé;</li>
+				<li> Formatação de colunas e linhas de relatórios;</li>
+				<li> Totalizadores de colunas.</li>
+	 	
+		 
+</body>
+</html>
